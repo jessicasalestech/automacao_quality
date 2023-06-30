@@ -6,7 +6,7 @@ Pré-requisitos: instalação de VS Code e Nodejs, usuário/conta do Github conf
     Menu superior > Terminal > New Terminal
 
 2- No terminal, escreva o comando para baixar o reposório em sua máquina
-    git clone https://github.com/jefersonQA/starter_qa.git
+    git clone https://github.com/jessicasalestech/automacao_quality.git
 
 3- No terminal, rode o comando para instalar o Cypress e as demais dependências utilizadas neste repositório
     npm install
